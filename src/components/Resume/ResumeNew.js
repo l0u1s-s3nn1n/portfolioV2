@@ -9,7 +9,8 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 
 const resumeLink =
-  <img src="http://myreader.toile-libre.org/uploads/My_631890d0a3ab5.pdf" alt=""></img>
+"https://raw.githubusercontent.com/l0u1s-s3nn1n/portfolioV2/57ff134ae60060c7a0491a847047ebbdbbea01bc/src/Assets/llbseptembre2022.pdf";
+
 
 function ResumeNew() {
   const [width, setWidth] = useState(1200);
