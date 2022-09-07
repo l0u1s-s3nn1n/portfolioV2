@@ -76,7 +76,7 @@ function NavBar() {
                 <AiOutlineFundProjectionScreen
                   style={{ marginBottom: "2px" }}
                 />{" "}
-                Projects
+                Projets
               </Nav.Link>
             </Nav.Item>
 
@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item className="fork-btn">
               <Button
-                href="https://github.com/lou1s-S3NN1N"
+                href="https://github.com/l0u1s-S3NN1N"
                 target="_blank"
                 className="fork-btn-inner"
               >

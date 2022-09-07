@@ -18,13 +18,13 @@ function Home2() {
               PRÉSENTATION<span className="purple"></span>
             </h1>
             <p className="home-about-body">
-              Après 8 ans de bons et loyaux services en tant que <b className="purple">chef-cuisinier</b>,
+              Après 8 année passionantes de bons et loyaux services en tant que <b className="purple">chef-cuisinier</b>,
               <br />
               j’ai décidé de raccrocher le tablier pour me consacrer à une autre de mes passions : <b className="purple">la programmation</b>.
               <br />
               <br />
-              Depuis l’adolescence et l’arrivée d’internet à la maison 
-              j’ai toujours « bidouillé » sur mes différents PC, je suis un peu le nerd de la famille à qui on demande un coup de pouce quand on rencontre une problème.
+              Depuis mon adolescence et l’arrivée d’internet à la maison 
+              j’ai toujours « bidouillé » sur mes différents PC, je suis un peu le nerd de la famille à qui on demande un coup de pouce quand on rencontre un problème informatique.
               <br />
               <br />
               J’avais depuis plusieurs années l’intention de me lancer dans une <b className="purple">reconversion </b> en tant que <b className="purple">développeur web</b>.
@@ -32,7 +32,7 @@ function Home2() {
               </i>
               <br />
               <br />
-              J’ai pu <b className="purple">développer des compétences</b> : 
+              En 2022, j’ai pu <b className="purple">développer des compétences</b> : 
               <br />
               <br />
               👉 <b className="purple">FRONT-END</b> :
@@ -50,9 +50,7 @@ function Home2() {
               <br />
               - NodesJS(ExpressJS)
               <br />
-              - Bases de données 
-              <br />
-              - SQL/NoSQL (SQLite/MongoDB)
+              - Bases de données SQL/NoSQL (SQLite/MongoDB)
               <br />
               - JSON
               <br />
@@ -60,14 +58,14 @@ function Home2() {
               J’aime construire des <b className="purple">sites/applications web modernes au design soigné</b>.
               <br />
               <br />
-              <b className="purple">Créatif</b>, j’aime laissé <b className="purple">libre cours à mon imagination</b> pour mettre en forme mes différents projets.
+              <b className="purple">Créatif</b>, j’aime laisser <b className="purple">libre cours à mon imagination</b> pour mettre en forme mes différents projets.
               <br />
-              En <b className="purple">veille constante</b>, je suis en ce moment en train de me former sur <b className="purple">ThreeJS</b> 
+              En <b className="purple">veille constante</b>, je me forme actuellement sur <b className="purple">ThreeJS</b> 
               <br />car j’adore le <b className="purple">rendu 3D</b> sur les sites/applications web.
               <br />
               <br />
-              Mon but cette année est de concrétiser mes objectifs, de <b className="purple">trouver un poste en tant que développeur FRONT-END </b>
-              afin de pouvoir travailler sur des <b className="purple">projets professionnels, développer mes compétences, travailler en équipe</b>.
+              Mon but cette année est de concrétiser mes objectifs professionnels :<b className="purple"> Devenir développeur FRONT-END en entreprise</b>
+              afin de pouvoir travailler sur des <b className="purple">projets professionnels, monter en compétence, travailler en équipe</b>.
 
             </p>
           </Col>
