@@ -2,24 +2,32 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-
+import {AiFillGithub } from "react-icons/ai";
 
 function Projects() {
   return (
     <Container fluid className="project-section">
       <Particle />
       <Container>
-      <h1 className="project-heading">
+        <h1 className="project-heading">
           Cette page est <strong className="purple">Cours de construction </strong>
         </h1>
-        <p style={{ color: "white" }}>
-          Consulter mon repo Github 👉<a
-                href="https://github.com/louis-s3nn1n"
-                style={{ color: "white" }}
-                target="_blank" 
-                rel="noopener noreferrer"
-              > ici </a>👈
-        </p>
+        <Row>
+          <Col md={12} className="home-about-social">
+            <h2 style={{ fontSize: "1em"}}v>En attendant la version finale vous pouvez consulter mes projets sur Github 👇 </h2>
+              <li className="social-icons">
+                <a
+                  href="https://github.com/l0u1s-S3nn1n"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiFillGithub />
+                </a>
+              </li>
+            
+          </Col>
+        </Row>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
