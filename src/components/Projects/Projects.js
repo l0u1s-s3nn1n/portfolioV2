@@ -37,7 +37,7 @@ function Projects() {
              // imgPath={bitsOfCode}
               isBlog={false}
               title="Ohmyfood!"
-              description="Troisième projet du parcours développeur web chez OpenClassrooms. Intégrer puis de dynamiser une page web avec des animations CSS(Sass)"
+              description="Troisième projet du parcours développeur web chez OpenClassrooms. Intégrer une page web avec des animations CSS(Sass)"
               ghLink="https://github.com/l0u1s-s3nn1n/LouisLebail_3_19082021/"
               demoLink="https://l0u1s-s3nn1n.github.io/LouisLebail_3_19082021/"
             />

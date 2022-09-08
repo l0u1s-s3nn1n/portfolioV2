@@ -10,12 +10,14 @@ import {
   DiWordpress,
   DiSass,
   DiBootstrap,
+  DiSqllite,
 } from "react-icons/di";
 import {
   SiExpress,
   SiFirebase,
   SiJson,
   SiNextdotjs,
+  SiSequelize,
 } from "react-icons/si";
 
 function Techstack() {
@@ -46,19 +48,7 @@ function Techstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-      <DiNodejs /><p style={{ fontSize: "0.25em"}}>NodeJS</p>
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-      <SiExpress /><p style={{ fontSize: "0.25em"}}>ExpressJS</p>
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
       <DiReact /><p style={{ fontSize: "0.25em"}}>ReactJS</p>
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-      <DiMongodb /><p style={{ fontSize: "0.25em"}}>MongoDB</p>
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
@@ -68,7 +58,29 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
       <SiFirebase /><p style={{ fontSize: "0.25em"}}>Firebase</p>
       </Col>
-      
+
+      <Col xs={4} md={2} className="tech-icons">
+      <DiNodejs /><p style={{ fontSize: "0.25em"}}>NodeJS</p>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+      <SiExpress /><p style={{ fontSize: "0.25em"}}>ExpressJS</p>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+      <SiSequelize /><p style={{ fontSize: "0.25em"}}>Sequelize</p>
+      </Col>
+
+
+      <Col xs={4} md={2} className="tech-icons">
+      <DiMongodb /><p style={{ fontSize: "0.25em"}}>MongoDB</p>
+      </Col>
+
+      <Col xs={4} md={2} className="tech-icons">
+      <DiSqllite/><p style={{ fontSize: "0.25em"}}>SQLite</p>
+      </Col>
+
+
       <Col xs={4} md={2} className="tech-icons">
       <SiJson /><p style={{ fontSize: "0.25em"}}>JSON</p>
       </Col>

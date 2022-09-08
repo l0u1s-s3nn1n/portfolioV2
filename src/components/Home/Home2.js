@@ -36,7 +36,11 @@ function Home2() {
               <br />
               - HTML5,CSS3 
               <br />
-              - JavaScript(ReactJS) 
+              - JavaScript
+              <br />
+              - ReactJS/NextJS
+              <br />
+              - ThreeJS
               <br />
               - CMS WordPress et ses nombreux plugins
               <br />
@@ -44,11 +48,18 @@ function Home2() {
               👉 <b className="purple">BACK-END</b> :
               <br />
               <br />
-              - NodesJS(ExpressJS)
+              - NodesJS
+              <br />
+              - ExpressJS
               <br />
               - Bases de données SQL/NoSQL (SQLite/MongoDB)
               <br />
-              - JSON
+              - JSON/XML
+              <br />
+              - PHP
+              <br />
+              <br />
+              Ainsi que l'utilisation de nombreux outils d'aide à la programmation et au design.
               <br />
               <br />
               J’aime construire des <b className="purple">sites/applications web modernes au design soigné</b>.
