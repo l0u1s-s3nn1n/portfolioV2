@@ -23,7 +23,7 @@ function AboutCard() {
               <ImPointRight /> Le Web3 et la technologie blockchain. 
             </li>
             <li className="about-activity">
-              <ImPointRight /> Profiter des beaux paysages bretons lors de longues ballades.
+              <ImPointRight /> Profiter des paysages bretons lors de longues ballades.
             </li>
           </ul>
 
