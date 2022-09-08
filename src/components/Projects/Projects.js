@@ -26,7 +26,7 @@ function Projects() {
              // imgPath={chatify}
               isBlog={false}
               title="Reservia"
-              description="Second projet du parcours Développeur web chez OpenClassrooms.Intégration d'une page en HTML et CSS moderne et responsive"
+              description="Second projet du parcours Développeur web chez OpenClassrooms : Intégration d'une page en HTML et CSS moderne et responsive"
               ghLink="https://github.com/l0u1s-s3nn1n/LouisLeBail_2_25072021"
               demoLink="https://l0u1s-s3nn1n.github.io/LouisLeBail_2_25072021/"
             />
@@ -39,7 +39,7 @@ function Projects() {
               title="Ohmyfood!"
               description="Troisième projet du parcours développeur web chez OpenClassrooms. L'objectif d'intégrer puis de dynamiser une page web avec des animations CSS en utilisant le préprocesseur Sass"
               ghLink="https://github.com/l0u1s-s3nn1n/LouisLebail_3_19082021/"
-              demoLink="https://github.com/l0u1s-s3nn1n/LouisLebail_3_19082021/deployments/activity_log?environment=github-pages"
+              demoLink="https://l0u1s-s3nn1n.github.io/LouisLebail_3_19082021/"
             />
           </Col>
 
@@ -53,6 +53,44 @@ function Projects() {
               demoLink="https://l0u1s-s3nn1n.github.io/P4-Openclassrooms/"              
             />
           </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              //imgPath={editor}
+              isBlog={false}
+              title="Kanap"
+              description="Cinquième projet de la formation OpenClassRooms développeur web : Optimisez un site web existant (SEO)"
+              ghLink="https://github.com/l0u1s-s3nn1n/P4-Openclassrooms"
+              //demoLink="https://l0u1s-s3nn1n.github.io/P4-Openclassrooms/"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              //imgPath={editor}
+              isBlog={false}
+              title="Piiquante"
+              description="Sixième projet de la formation OpenClassRooms développeur web : Créer une API sécurisée."
+              ghLink="https://github.com/l0u1s-s3nn1n/P6-Openclassrooms"
+              //demoLink="https://l0u1s-s3nn1n.github.io/P4-Openclassrooms/"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              //imgPath={editor}
+              isBlog={false}
+              title="Groupomania"
+              description="Dernier projet de la formation OpenClassRooms développeur web : Créer un réseau social d'entreprise."
+              ghLink="https://github.com/l0u1s-s3nn1n/OpenClassRomms---Projet-7---Groupomania"
+              //demoLink="https://l0u1s-s3nn1n.github.io/P4-Openclassrooms/"              
+            />
+          </Col>
+
+         
+
+         
+
         </Row>
       </Container>
     </Container>

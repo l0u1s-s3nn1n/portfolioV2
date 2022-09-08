@@ -18,16 +18,12 @@ function Home2() {
               PRÉSENTATION<span className="purple"></span>
             </h1>
             <p className="home-about-body">
-              Après 8 année passionantes de bons et loyaux services en tant que <b className="purple">chef-cuisinier</b>,
+              Après 8 années passionantes en tant que <b className="purple">chef-cuisinier</b>,
               <br />
-              j’ai décidé de raccrocher le tablier pour me consacrer à une autre de mes passions : <b className="purple">la programmation</b>.
-              <br />
-              <br />
-              Depuis mon adolescence et l’arrivée d’internet à la maison 
-              j’ai toujours « bidouillé » sur mes différents PC, je suis un peu le nerd de la famille à qui on demande un coup de pouce quand on rencontre un problème informatique.
+              j’ai décidé de ranger mon tablier pour me consacrer à une autre de mes passions : <b className="purple">la programmation</b>.
               <br />
               <br />
-              J’avais depuis plusieurs années l’intention de me lancer dans une <b className="purple">reconversion </b> en tant que <b className="purple">développeur web</b>.
+              Depuis plusieurs années j'avais l’intention de me lancer dans une <b className="purple">reconversion </b> en tant que <b className="purple">développeur web</b>.
               <i>
               </i>
               <br />
@@ -60,12 +56,10 @@ function Home2() {
               <br />
               <b className="purple">Créatif</b>, j’aime laisser <b className="purple">libre cours à mon imagination</b> pour mettre en forme mes différents projets.
               <br />
-              En <b className="purple">veille constante</b>, je me forme actuellement sur <b className="purple">ThreeJS</b> 
-              <br />car j’adore le <b className="purple">rendu 3D</b> sur les sites/applications web.
+              En <b className="purple">veille constante</b>, je me forme actuellement sur <b className="purple">ThreeJS</b> qui rend possible l'affichage <b className="purple">3D</b> dans un navigateur
               <br />
-              <br />
-              Mon but cette année est de concrétiser mes objectifs professionnels :<b className="purple"> Devenir développeur FRONT-END en entreprise</b>
-              afin de pouvoir travailler sur des <b className="purple">projets professionnels, monter en compétence, travailler en équipe</b>.
+              Je recherche un contrat en tant que <b className="purple"> développeur FRONT-END </b>.
+              Cela me permettrai de travailler sur des projets professionnels, monter en compétence, travailler en équipe.
 
             </p>
           </Col>
