@@ -16,31 +16,31 @@ function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
+     <SiVisualstudiocode /><p style={{ fontSize: "0.25em"}}>VisualStudioCode</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiGithub />
+      <SiGithub /><p style={{ fontSize: "0.25em"}}>Github</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiGitkraken />
+      <SiGitkraken /><p style={{ fontSize: "0.25em"}}>GitKraken</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiPostman />
+      <SiPostman /><p style={{ fontSize: "0.25em"}}>Postman</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+      <SiVercel /><p style={{ fontSize: "0.25em"}}>Vercel</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
+      <SiHeroku /><p style={{ fontSize: "0.25em"}}>Heroku</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiGimp />
+      <SiGimp /><p style={{ fontSize: "0.25em"}}>GIMP</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFigma />
+      <SiFigma /><p style={{ fontSize: "0.25em"}}>Figma</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiCanva />
+      <SiCanva /><p style={{ fontSize: "0.25em"}}>Canva</p>
       </Col>
     </Row>
   );

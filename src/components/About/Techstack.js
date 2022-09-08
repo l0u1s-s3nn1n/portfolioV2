@@ -19,34 +19,34 @@ function Techstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
       <Col xs={4} md={2} className="tech-icons">
-        <DiHtml5 />
+         <DiHtml5 /><p style={{ fontSize: "0.25em"}}>HMTL5</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiCss3 />
+      <DiCss3 /><p style={{ fontSize: "0.25em"}}>CSS3</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiWordpress />
+      <DiWordpress /><p style={{ fontSize: "0.25em"}}>WordPress</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiJavascript1 />
+      <DiJavascript1 /><p style={{ fontSize: "0.25em"}}>JavaScript</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiNodejs />
+      <DiNodejs /><p style={{ fontSize: "0.25em"}}>NodeJS</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiReact />
+      <DiReact /><p style={{ fontSize: "0.25em"}}>ReactJS</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiMongodb />
+      <DiMongodb /><p style={{ fontSize: "0.25em"}}>MongoDB</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiNextdotjs />
+      <SiNextdotjs /><p style={{ fontSize: "0.25em"}}>NextJS</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiFirebase />
+      <SiFirebase /><p style={{ fontSize: "0.25em"}}>Firebase</p>
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiJson />
+      <SiJson /><p style={{ fontSize: "0.25em"}}>JSON</p>
       </Col>
       
     </Row>

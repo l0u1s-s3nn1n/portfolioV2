@@ -56,10 +56,12 @@ function Home2() {
               <br />
               <b className="purple">Créatif</b>, j’aime laisser <b className="purple">libre cours à mon imagination</b> pour mettre en forme mes différents projets.
               <br />
+              <br />
               En <b className="purple">veille constante</b>, je me forme actuellement sur <b className="purple">ThreeJS</b> qui rend possible l'affichage <b className="purple">3D</b> dans un navigateur
               <br />
+              <br />
               Je recherche un contrat en tant que <b className="purple"> développeur FRONT-END </b>.
-              Cela me permettrai de travailler sur des projets professionnels, monter en compétence, travailler en équipe.
+              Cela me permettrait de travailler sur des projets professionnels, monter en compétence, travailler en équipe.
 
             </p>
           </Col>

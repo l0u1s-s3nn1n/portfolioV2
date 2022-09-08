@@ -5,7 +5,10 @@ import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
 
+
 function Home() {
+  
+
   return (
     <section>
       <Container fluid className="home-section" id="home">
@@ -31,7 +34,7 @@ function Home() {
             </Col>
 
             <Col md={5} style={{ paddingBottom: 20 }}>
-              <img
+            <img
                 src={homeLogo}
                 alt="home pic"
                 className="img-fluid"
