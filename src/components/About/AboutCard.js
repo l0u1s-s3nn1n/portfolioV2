@@ -8,9 +8,12 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Bonjour, je m'appelle <span className="purple">Louis LE BAIL. </span>
+            Je m'appelle <span className="purple">Louis LE BAIL. </span>
+            <br />
             J'habite à <span className="purple"> Quimper, dans le Finistère.</span>
-            <br />J'ai 32 ans et j'ai obtenu mon diplôme d'intégrateur/développeur en 2022 (bac+2/certification de niveau 5) web avec OpenClassRooms.
+            <br />
+            <br />
+            J'ai 32 ans et j'ai obtenu mon diplôme d'intégrateur/développeur en 2022 (bac+2/certification de niveau 5) web avec OpenClassRooms.
             <br />
             <br />
             Curieux de nature, voici les autres sujets qui me passionnent en ce moment :
